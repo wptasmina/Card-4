@@ -1,2 +1,1 @@
-# Sk-Card-4
-https://github.com/wptasmina/Sk-Card-4.git
+https://wptasmina.github.io/Sk-Card-4
